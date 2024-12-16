@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">你好，陌生人</div>
+  <div class="more-content">你好，陌生人,欢迎你来到这个小网站</div>
 </template>
 
 <style lang="scss" scoped>
