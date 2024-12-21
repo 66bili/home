@@ -38,5 +38,10 @@
     "icon": "PaperPlaneRegular",
     "name": "小纸条",
     "link": "https://note.liubao.xin/"
+  },
+  {
+    "icon": "Book",
+    "name": "阅读器",
+    "link": "https://yue.ananyo.fun/"
   }
 ]
