@@ -70,7 +70,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
-  Paperclip,
+  PaperPlaneRegular,
 };
 
 // 链接跳转
