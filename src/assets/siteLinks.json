@@ -49,4 +49,9 @@
     "name": "搜索",
     "link": "https://agp.ananyo.fun/"
   }
+    {
+    "icon": "Edge",
+    "name": "必应",
+    "link": "https://bing.com/"
+  }
 ]
