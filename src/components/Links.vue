@@ -73,6 +73,7 @@ const siteIcon = {
   PaperPlaneRegular,
   BookReader,
   Search,
+  Edge,
 };
 
 // 链接跳转
